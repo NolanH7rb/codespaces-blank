@@ -30,7 +30,7 @@ console.log(generalist)
 //from a list. It will remove the last item in that list.
 
 generallist.pop()
-console.log(generallist)
+console.log(generallist
 
 // Length() - This method counts the number of data
 // inside of a list
