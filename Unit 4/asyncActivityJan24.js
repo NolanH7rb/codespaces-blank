@@ -15,3 +15,6 @@ function reverseNumbers(){
 
 
 reverseNumbers()
+
+
+// create a countdown timer based on the number in the input variable
