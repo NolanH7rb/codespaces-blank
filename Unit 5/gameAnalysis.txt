@@ -1,0 +1,5 @@
+1. Some key gameplay elements include, non 3d background, action/fighting game, with fist.
+2. The player ineract with the game by fighting an AI oppenent with his fist.
+3. Left, Right, Jump, visuals will be used, along with coins that give your points while also scoring by hitting the targeted defender.
+4. The player is trying to achieve a knockout on other oppenent and/or get highest score than other.
+5. What makes this game interesting or different  is the floating platforms along with the characters freedom in  a sense.
